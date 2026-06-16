@@ -10,7 +10,9 @@ Built with Python and Telethon, optimized for users in Iran (supports SOCKS5 pro
 
 ## Installation
 
+```
 pip install telethon python-socks
+```
 
 ## Usage
 
@@ -53,7 +55,9 @@ python check.py
 
 ## نصب
 
+```
 pip install telethon python-socks
+```
 
 ## نحوه استفاده
 
