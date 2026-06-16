@@ -18,7 +18,9 @@ pip install telethon python-socks
 
 1. Run the script:
 
+```
 python check.py
+```
 
 2. On first run, enter your phone number and the code Telegram sends you.
 3. Enter usernames one by one without @. Press Enter on an empty line to start checking.
@@ -63,7 +65,9 @@ pip install telethon python-socks
 
 1. اسکریپت رو اجرا کن:
 
+```
 python check.py
+```
 
 2. در اولین اجرا، شماره تلفن و کد تایید تلگرام رو وارد کن.
 3. یوزرنیم‌ها رو یکی یکی وارد کن بدون @. برای شروع چک کردن یه Enter خالی بزن.
